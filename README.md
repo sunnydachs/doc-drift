@@ -90,6 +90,8 @@ Validated against a real, large open-source repository (1,692 Markdown files / 4
 
 This tool was inspired by a recurring pain observed across projects: documentation examples drifting from the code they illustrate. This repository is an independent, general-purpose implementation.
 
+A sibling project, [plan-drift](https://github.com/sunnydachs/plan-drift), applies the same approach to analytics tracking plans — same design principles: deterministic, read-only, dry-run by default.
+
 ## License
 
 [MIT](LICENSE)
