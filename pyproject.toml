@@ -18,4 +18,4 @@ dependencies = []
 dev = ["pytest>=8.0"]
 
 [project.scripts]
-doc-drift = "dep_drift.cli:main"
+doc-drift = "doc_drift.cli:main"
